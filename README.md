@@ -71,7 +71,7 @@ console.log('hello')
 <br/>
 
 #### Task List
-- [10] Task 1
+- [X] Task 1
 - [X] Task 2
 - [X] Task 3
 - [X] Task 4

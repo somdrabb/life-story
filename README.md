@@ -7,7 +7,11 @@
 Md Golam Rabbani  
 34024742
 
+<<<<<<< HEAD
 #### Horizontal rule/ way to detect
+=======
+#### Horizontal rule
+>>>>>>> 50b7a40ae940012bed5e1ab8656d87fc59da57b7
 
 
 
